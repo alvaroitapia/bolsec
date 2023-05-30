@@ -1,4 +1,4 @@
-# bolsec
+# bolsec "Bolivian Securities"
 This R package offers 3 daily market snapshots from varying-priced securities traded in the Bolivian Stock Exchange (Bolsa Boliviana de Valores).
 The package accounts for the following 3 functions:
 
