@@ -1,0 +1,10 @@
+Package: bolsec
+Type: Package
+Title: Bolivian Securities 
+Version: 0.1.0
+Author: Alvaro Ignacio Tapia 
+Maintainer: <alvaroignaciotapia@gmail.com>
+Description: Offers 3 daily market snapshots from varying-priced securities traded in the Bolivian Stock Exchange (Bolsa Boliviana de Valores).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
