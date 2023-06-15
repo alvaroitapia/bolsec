@@ -1,6 +1,8 @@
 # bolsec "Bolivian Securities"
-This R package offers 3 daily market snapshots from varying-priced securities traded in the Bolivian Stock Exchange (Bolsa Boliviana de Valores).
-The package accounts for the following 3 functions:
+This R package imports data and offers 3 daily snaphot functions from securities of varying prices traded on the Bolivian Stock Exchange (Bolsa Boliviana de Valores).
+The package accounts for the following 4 functions:
+
+import_data -> Primary function that imports daily data of securities presenting the highest and lowest price variations in the Bolivian Securities Exchange.
 
 get_graph -> This daily scatter plot illustrates the correlation between %rate and %price variations of securities traded in the Bolivian Securities Exchange.
 
