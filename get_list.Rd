@@ -5,7 +5,7 @@
 \description{This daily list of securities presents the highest and lowest price variations in the Bolivian Securities Exchange.
 }
 \usage{
-get_list(data)
+get_list(x)
 }
 \arguments{A defined variable storing the daily data from the import_data function.
 }
