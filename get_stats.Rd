@@ -5,7 +5,7 @@
 \description{This daily chart exhibits the descriptive statistics of price, rate and price variation from securities in the Bolivian Securities Exchange.
 }
 \usage{
-get_stats(data)
+get_stats(x)
 }
 \arguments{A defined variable storing the daily data from the import_data function.
 }
