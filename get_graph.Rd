@@ -5,7 +5,7 @@
 \description{This daily scatter plot illustrates the correlation between rate and price variations of securities in the Bolivian Securities Exchange.
 }
 \usage{
-get_graph(data)
+get_graph(x)
 }
 \arguments{A defined variable storing the daily data from the import_data function.
 }
