@@ -7,8 +7,6 @@
 \usage{
 import_data()
 }
-\arguments{No argument needed.
-}
 \value{
 {TICKER SYMBOL}{This column lists the code names of each traded security.}
 {ISSUER NAME}{This column lists the company names that issue each traded security.}

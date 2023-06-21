@@ -10,6 +10,7 @@ import_data <- function() {
       vector2 <- paste('ul.list-table.show-popup-instr:nth-child(',row,')',sep = "")
       vector3 <- paste('li.list-table__item',col,'', sep = "")
 
+      '.' <- NULL
       read.scrap %>%
         html_nodes(vector1) %>%
         html_nodes(vector2) %>%
