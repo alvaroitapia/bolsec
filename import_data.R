@@ -1,3 +1,4 @@
+
 import_data <- function() {
   url = 'https://www2.bbv.com.bo/mercados/montos-negociados/instrumentos-negociados/'
 
@@ -81,7 +82,7 @@ import_data <- function() {
     #Output return
     return(print(df))
   }, error = function(e) {
-    message('The market opens on weekdays at 6:00am, Bolivian Standard Time (UTC-4).')
+    message('Apologies. The market opens on weekdays at 6:00am, Bolivian Standard Time (UTC-4).')
     return(NULL)
   })
   return(result)

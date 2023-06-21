@@ -5,9 +5,9 @@
 \description{This daily scatter plot illustrates the correlation between rate and price variations of securities in the Bolivian Securities Exchange.
 }
 \usage{
-get_graph(x)
+get_graph(data)
 }
-\arguments{A defined variable storing the daily data from the import_data function.
+\arguments{\item{data}{A defined variable storing the daily data from the import_data function.}
 }
 \value{
 {ISSUER NAME}{Above the scatter dots are the company names that issue each traded security.}

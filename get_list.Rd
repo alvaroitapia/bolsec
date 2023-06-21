@@ -5,9 +5,9 @@
 \description{This daily list of securities presents the highest and lowest price variations in the Bolivian Securities Exchange.
 }
 \usage{
-get_list(x)
+get_list(data)
 }
-\arguments{A defined variable storing the daily data from the import_data function.
+\arguments{\item{data}{A defined variable storing the daily data from the import_data function.}
 }
 \value{
 {TICKER SYMBOL}{This column lists the code names of each traded security.}

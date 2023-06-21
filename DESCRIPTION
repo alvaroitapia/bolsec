@@ -3,12 +3,14 @@ Type: Package
 Title: Bolivian Securities 
 Version: 0.1.0
 Author: Alvaro Ignacio Tapia 
-Maintainer: <alvaroignaciotapia@gmail.com>
-Description: Provides data import and offers 3 daily snaphot functions from securities of varying prices traded on the Bolivian Stock Exchange (Bolsa Boliviana de Valores). The snapshots include a detailed list, scatter plot correlation, and descriptive statistics table for the securities.
+Maintainer: Alvaro Ignacio Tapia <alvaroignaciotapia@gmail.com>
+Description: Provides data import and offers 3 daily snaphot functions from securities of varying prices traded on the Bolivian Securities Exchange (Bolsa Boliviana de Valores). The snapshots include a detailed list, scatter plot correlation, and descriptive statistics table for the securities.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Website: <www.bbv.com.bo>
-Imports: dplyr, rvest, formattable
+Website: "https://www.bbv.com.bo"
+Imports: dplyr, rvest, formattable, stats, graphics
 Suggests: knitr,rmarkdown
 VignetteBuilder: knitr
+
+

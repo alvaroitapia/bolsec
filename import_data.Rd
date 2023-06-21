@@ -7,7 +7,7 @@
 \usage{
 import_data()
 }
-\arguments{No argument is needed.
+\arguments{No argument needed.
 }
 \value{
 {TICKER SYMBOL}{This column lists the code names of each traded security.}
